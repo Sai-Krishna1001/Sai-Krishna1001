@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🏢 I'm currently working at Virtusa as Junior Frontend developer<br>🤝 I'm looking to collaborate on exciting ReactJs projects and contribute to innovative solutions in the tech industry<br>🔎 I'm looking for help with advanced React JS topics and exploring new ways to optimize code efficiency<br>📚 I'm currently learning the MERN Stack to expand my full-stack development skills<br>💡 Ask me about Javascript programming, DSA. I'd be happy to share my knowledge and help you out!<br>⚡ Fun fact: Infinite loops, endless possibilities
+🏢 I'm currently working at Nibav Lifts as Full Stack developer<br>🤝 I'm looking to collaborate on exciting ReactJs projects and contribute to innovative solutions in the tech industry<br>🔎 I'm looking for help with advanced React JS topics and exploring new ways to optimize code efficiency<br>📚 I'm currently learning the MERN Stack to expand my full-stack development skills<br>💡 Ask me about Javascript programming, DSA. I'd be happy to share my knowledge and help you out!<br>⚡ Fun fact: Infinite loops, endless possibilities
 
 
 ## 🌐 Socials:
