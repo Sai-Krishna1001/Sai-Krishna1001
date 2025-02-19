@@ -1,8 +1,17 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🏢 I'm currently working at Nibav Lifts as Full Stack developer<br>🤝 I'm looking to collaborate on exciting ReactJs projects and contribute to innovative solutions in the tech industry<br>🔎 I'm looking for help with advanced React JS topics and exploring new ways to optimize code efficiency<br>📚 I'm currently learning the MERN Stack to expand my full-stack development skills<br>💡 Ask me about Javascript programming, DSA. I'd be happy to share my knowledge and help you out!<br>⚡ Fun fact: Infinite loops, endless possibilities
+💼 Full Stack Developer | Seeking New Opportunities
 
+🤝 Looking to collaborate on Java and React.js projects, building scalable and efficient applications.
+
+🔎 Exploring advanced React concepts, performance optimization, and backend development with Java.
+
+📚 Currently learning Next.js and Generative AI to expand my full-stack and AI expertise.
+
+💡 Ask me about Java or JavaScript programming, DSA. I'd be happy to share my knowledge and help you out!
+
+⚡ Fun fact: Infinite loops, endless possibilities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-krishna-gedda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/1001_krishna)
