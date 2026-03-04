@@ -1,61 +1,72 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Krishna%20Gedda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:6C63FF,100:a78bfa&height=220&section=header&text=Sai%20Krishna%20Gedda&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Node.js&descAlignY=62&descSize=19&animation=fadeIn" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+scalable+full-stack+applications;%E2%98%95+Java+%2B+React.js+%3D+My+Favourite+Combo;%F0%9F%A4%96+Exploring+Next.js+%26+Generative+AI;%F0%9F%A7%A0+DSA+Enthusiast+%7C+Clean+Code+Advocate;%E2%9A%A1+Infinite+loops...+Endless+possibilities;%F0%9F%92%BB+Turning+ideas+into+impactful+software)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=640&lines=Building+scalable+full-stack+applications;Java+%2B+React.js+%3D+My+Favourite+Combo;Exploring+Next.js+%26+Generative+AI;DSA+Enthusiast+%7C+Clean+Code+Advocate;Infinite+loops...+Endless+possibilities)](https://git.io/typing-svg)
-
-</div>
-
----
+<br/>
 
 ## 👨‍💻 About Me
 
-```javascript
-const saiKrishna = {
-  role        : "Full Stack Developer",
-  location    : "India 🇮🇳",
-  currentFocus: ["Next.js", "Generative AI", "Performance Optimization"],
-  expertise   : ["Java", "React.js", "Node.js", "DSA"],
-  lookingFor  : "Exciting collaboration & new opportunities",
-  funFact     : "Infinite loops... endless possibilities ⚡",
-  askMeAbout  : ["Java", "JavaScript", "DSA", "System Design"]
-};
+<div align="center">
+
 ```
+╔══════════════════════════════════════════════════════════════╗
+║  ~/sai-krishna  ❯  node whoami.js                           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  const saiKrishna = {                                        ║
+║    role        : "Full Stack Developer",                     ║
+║    location    : "India 🇮🇳",                                ║
+║    currentFocus: ["Next.js", "Generative AI", "Perf Opt"],  ║
+║    expertise   : ["Java", "React.js", "Node.js", "DSA"],    ║
+║    lookingFor  : "Exciting collaboration & opportunities",   ║
+║    funFact     : "Infinite loops... endless possibilities ⚡",║
+║    askMeAbout  : ["Java", "JavaScript", "DSA", "System Design"]║
+║  };                                                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<b>🚀 What I'm up to</b><br/><br/>
-🔭 Building scalable apps with <b>Java &amp; React.js</b><br/>
-🌱 Leveling up with <b>Next.js</b> &amp; <b>Generative AI</b><br/>
-🤝 Open to collaborations on impactful projects<br/>
-💡 Passionate about clean code &amp; great UX<br/>
-📖 Sharing knowledge on <b>Java</b>, <b>JS</b> &amp; <b>DSA</b>
+### 🚀 What I'm up to
+
+🔭 Building scalable apps with **Java & React.js**
+🌱 Leveling up with **Next.js** & **Generative AI**
+🤝 Open to collaborations on impactful projects
+💡 Passionate about clean code & great UX
+📖 Sharing knowledge on **Java**, **JS** & **DSA**
 
 </td>
 <td width="50%" valign="top">
 
-<b>⚡ Quick Facts</b><br/><br/>
+### ⚡ Quick Facts
 
 | | |
-|:---|:---|
+|:---:|:---|
 | 💼 | Seeking new opportunities |
-| 🧠 | DSA &amp; System Design enthusiast |
+| 🧠 | DSA & System Design enthusiast |
 | 🛠️ | MERN + Java Full Stack |
-| 🎯 | Building for scale &amp; performance |
-| ☕ | Powered by coffee &amp; curiosity |
+| 🎯 | Building for scale & performance |
+| ☕ | Powered by coffee & curiosity |
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -63,56 +74,46 @@ const saiKrishna = {
 
 **🔤 Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=java,js,ts&perline=10)](https://skillicons.dev)
 
 **⚛️ Frontend**
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,figma&perline=10)](https://skillicons.dev)
 
 **🖥️ Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring&perline=10)](https://skillicons.dev)
 
-**🗄️ Databases &amp; Cloud**
+**🗄️ Databases & Cloud**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=10)](https://skillicons.dev)
 
-**🔧 Tools &amp; Workflow**
+**🔧 Tools & DevOps**
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,idea&perline=10)](https://skillicons.dev)
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sai-Krishna1001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Sai-Krishna1001&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sai-Krishna1001&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Sai-Krishna1001&theme=github_dark_dimmed&hide_border=true" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Krishna1001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Krishna1001&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+
+<br/><br/>
+
+[![Holopin](https://holopin.me/saikrishna1001)](https://holopin.io/@saikrishna1001)
 
 </div>
 
----
+<br/>
 
 ## 🏆 GitHub Trophies
 
@@ -122,29 +123,64 @@ const saiKrishna = {
 
 </div>
 
----
+<br/>
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sai-Krishna1001&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sai-Krishna1001&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Sai-Krishna1001/Javascript-Interview"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sai-Krishna1001&repo=Javascript-Interview&theme=github_dark_dimmed&hide_border=true" /></a>
+<a href="https://github.com/Sai-Krishna1001/java-interview"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sai-Krishna1001&repo=java-interview&theme=github_dark_dimmed&hide_border=true" /></a>
+
+<a href="https://github.com/Sai-Krishna1001/portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sai-Krishna1001&repo=portfolio&theme=github_dark_dimmed&hide_border=true" /></a>
+<a href="https://github.com/Sai-Krishna1001/Yum-Eats-Clone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sai-Krishna1001&repo=Yum-Eats-Clone&theme=github_dark_dimmed&hide_border=true" /></a>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sai-Krishna1001/Sai-Krishna1001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sai-Krishna1001/Sai-Krishna1001/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sai-Krishna1001/Sai-Krishna1001/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Sai-Krishna1001)&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sai-krishna-gedda)&nbsp;&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/1001_krishna)&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-krishna-gedda)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1001_krishna)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-Follow-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/1001_krishna)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
----
+<br/>
 
 ## 💬 Random Dev Quote
 
@@ -154,7 +190,7 @@ const saiKrishna = {
 
 </div>
 
----
+<br/>
 
 ## 🔝 Top Contributed Repos
 
@@ -164,7 +200,7 @@ const saiKrishna = {
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -174,6 +210,10 @@ const saiKrishna = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+> ⭐ **Star my repos if you find them helpful!** &nbsp;|&nbsp; Made with ❤️ and ☕
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a78bfa,100:c084fc&height=130&section=footer&animation=fadeIn" />
 
 </div>
